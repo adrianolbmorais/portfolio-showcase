@@ -2,7 +2,7 @@
 node_modules/
 
 # Diretório de build
-dist/
+.next/
 
 # Logs
 npm-debug.log*
